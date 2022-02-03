@@ -1,0 +1,7 @@
+{
+  "name": "ionic-manage-keuangan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
